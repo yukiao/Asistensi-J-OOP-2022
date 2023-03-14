@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assignment_1_No4 {
+public class Assignment_1_4 {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in); 
         System.out.print("Masukkan Judul Film : \n> "); // mencetak string kalimat

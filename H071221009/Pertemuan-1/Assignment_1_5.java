@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assignment_1_No5 {
+public class Assignment_1_5 {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in); // membaca inputannya
         String tanggal = inp.nextLine(); //menginput data tipe string

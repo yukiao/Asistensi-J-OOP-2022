@@ -1,4 +1,4 @@
-public class Assignment_1_No7 {
+public class Assignment_1_7 {
     // Inisialisasi array yang diisi dengan data nama negara
     String[] data = {"Italia", "Indonesia", "Palestina", "Amerika", "Rusia", "India", "Malaysia", "Korea", "Jepang", "Thailand"};
     
@@ -17,7 +17,7 @@ public class Assignment_1_No7 {
         }
         public static void main(String[] args) {
             // Membuat objek StringArrayExample
-            Assignment_1_No7 contoh = new Assignment_1_No7();
+            Assignment_1_7 contoh = new Assignment_1_7();
     
             // Cari indeks teks dalam array
             System.out.println("Indeks dari 'Indonesia': " + contoh.findIndex("indonesia")); // case 'Indonesia' huruf kapital pertama tdk memedulikan "indonesia"

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assignment_1_No1 { 
+public class Assignment_1_1 { 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); // utk menginisialisasi objek scanner
         

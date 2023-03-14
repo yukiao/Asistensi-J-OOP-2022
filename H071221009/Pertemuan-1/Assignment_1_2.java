@@ -1,6 +1,6 @@
 import java.util.Scanner; // import library
 
-public class Assignment_1_No2 { 
+public class Assignment_1_2 { 
     public static void main(String[] args) { // method main nda wajib dijalankan langsung java
         Scanner inp = new Scanner(System.in); //menginisialisasi objek dari class scanner
         int bilbulat = 0; // nilai awal bilbulat

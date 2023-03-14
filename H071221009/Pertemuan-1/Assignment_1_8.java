@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Assignment_1_No8 {
+public class Assignment_1_8 {
     public static void main(String[] args) {
       Scanner inp = new Scanner(System.in);
       int[][] array = {{1, 2, 3},{4, 5, 6},{7, 8, 9}}; // membuat/menginisialisasi array 2d dengan langsung mengisi array
