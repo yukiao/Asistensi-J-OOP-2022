@@ -1,5 +1,4 @@
-package TugasAsistensi;
-public class Assignment_1_No7 {
+public class Assignment_1_7 {
     // array data nama orang
     private String[] data = {"lisa", "muti", "lia", "kia", "nata", "syifa", "karin", "santi"};
     
@@ -20,7 +19,7 @@ public class Assignment_1_No7 {
     
         public static void main(String[] args) {
             // Membuat objek StringArrayExample
-            Assignment_1_No7 example = new Assignment_1_No7();
+            Assignment_1_7 example = new Assignment_1_7();
     
             // Cari indeks teks dalam array
             System.out.println("Indeks dari 'muti': " + example.findIndex("muti"));

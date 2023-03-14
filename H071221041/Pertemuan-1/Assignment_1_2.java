@@ -1,8 +1,6 @@
-package TugasAsistensi;
-
 import java.util.Scanner;
 
-public class Assignment_1_No2 {
+public class Assignment_1_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int JmlhBlngn;
